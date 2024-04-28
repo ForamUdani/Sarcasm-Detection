@@ -1,1 +1,2 @@
 # Sarcasm-Detection
+Sarcasm means being funny by being the opposite of what you mean. It has been part of every human language for years. Today, it is also used in news headlines and various other social media platforms to gain more attention. Sarcasm detection is a natural language processing and binary classification task. We can train a machine learning model to detect whether or not a sentence is sarcastic using a dataset.
